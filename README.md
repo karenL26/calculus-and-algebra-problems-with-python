@@ -3,6 +3,7 @@
 
 In this project we explore some calculus and algebra using Python. 
 Following the instruction we must find a solution to each problem. :nerd_face:
+The notebook with the project is [here](src/problems.ipynb).
 
 # Technologies used 🛠️
 - [Python](https://www.python.org/)
